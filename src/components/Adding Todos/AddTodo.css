@@ -1,0 +1,22 @@
+/* İNPUT AND BUTTON PART */
+.input-part {
+  margin-left: 15px;
+}
+.input-part input {
+  height: 30px;
+  border: 1px solid rgb(187, 172, 172);
+  width: 225px;
+  padding-left: 5px;
+  border-radius: 3px;
+}
+.input-part button {
+  height: 32px;
+  width: 32px;
+  margin-left: 4px;
+  border: none;
+  background-color: blue;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 3px;
+}

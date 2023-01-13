@@ -1,0 +1,20 @@
+/* Pending Tasks */
+.pending-tasks {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 40px;
+}
+.pending-tasks p {
+  font-size: 14px;
+  font-weight: bold;
+}
+.pending-tasks button {
+  height: 23px;
+  width: 65px;
+  border: none;
+  color: #fff;
+  background-color: blue;
+  cursor: pointer;
+  border-radius: 3px;
+}

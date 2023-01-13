@@ -1,0 +1,19 @@
+/* Each Todo On List */
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 25px;
+  background-color: rgb(233, 233, 233);
+  font-weight: bold;
+}
+.todo p {
+  padding: 7px;
+}
+.todo button {
+  padding: 9px;
+  background-color: red;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+}
